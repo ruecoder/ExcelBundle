@@ -39,12 +39,12 @@
     "autoload": {
         "exclude-from-classmap": ["/Tests/"],
         "psr-4": {
-            "ruecoder\\ExcelBundle\\": ""
+            "Ruecoder\\ExcelBundle\\": ""
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ruecoder\\ExcelBundle\\": ""
+            "Ruecoder\\ExcelBundle\\": ""
         }
     },
     "config": {
