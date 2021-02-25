@@ -1,8 +1,8 @@
 <?php
 
-namespace Liuggio\ExcelBundle\Tests;
+namespace Ruecoder\ExcelBundle\Tests;
 
-use Liuggio\ExcelBundle\Factory;
+use Ruecoder\ExcelBundle\Factory;
 
 class FactoryTest extends \PHPUnit_Framework_TestCase
 {

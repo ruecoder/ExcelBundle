@@ -1,13 +1,13 @@
 <?php
 
-namespace Liuggio\ExcelBundle;
+namespace Ruecoder\ExcelBundle;
 
 use Symfony\Component\HttpFoundation\StreamedResponse;
 
 /**
  * Factory for PHPExcel objects, StreamedResponse, and PHPExcel_Writer_IWriter.
  *
- * @package Liuggio\ExcelBundle
+ * @package Ruecoder\ExcelBundle
  */
 class Factory
 {

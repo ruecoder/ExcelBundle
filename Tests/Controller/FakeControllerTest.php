@@ -1,6 +1,6 @@
 <?php
 
-namespace Liuggio\ExcelBundle\Tests\Controller;
+namespace Ruecoder\ExcelBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 use Symfony\Component\HttpFoundation\Request;

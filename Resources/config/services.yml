@@ -1,5 +1,5 @@
 parameters:
-    phpexcel.class:  Liuggio\ExcelBundle\Factory
+    phpexcel.class:  Ruecoder\ExcelBundle\Factory
 
 services:
     phpexcel:
